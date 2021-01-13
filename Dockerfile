@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.20.1
-MAINTAINER shayu
+FROM k8s.gcr.io/kube-scheduler:v1.20.1
+MAINTAINER lly
